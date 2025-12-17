@@ -7,6 +7,9 @@ This project demonstrates data analysis and visualization using MongoDB Charts.
 The Netflix Movies and TV Shows dataset is used to explore content trends,
 distribution, and platform strategy through interactive dashboards.
 
+<img width="780" height="878" alt="image" src="https://github.com/user-attachments/assets/f1b22be7-ac39-4119-a3a6-7738e73193ca" />
+
+
 ## 📊 MongoDB Charts Dashboard (Live)
 
 🔗 **Dashboard Link:**  
